@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ronaldo",
+    "age": "39",
+    "img": "https://i.pinimg.com/236x/81/cd/b0/81cdb06116e8097c048a7fe778899960.jpg"
+  },
+  {
+    "name": "Dybala",
+    "age": "30",
+    "img": "https://i.pinimg.com/236x/f8/9c/6e/f89c6eda995524505a23fe22edb3a104.jpg"
+  },
+  {
+    "name": "Modrić",
+    "age": "39",
+    "img": "https://i.pinimg.com/236x/52/5f/92/525f920131909856894823873c07b261.jpg"
+
+  },
+  {
+    "name" : "Rodrygo",
+    "age" : "23",
+    "img": "https://i.pinimg.com/474x/ba/d1/89/bad189d157cd5fcbae100860b387443e.jpg"
+  }
+]

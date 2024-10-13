@@ -1,0 +1,102 @@
+.photo {
+    border-radius: 20px;
+    position: relative;
+    top: 14px;
+    box-shadow: 0 0 50px red;
+    left: -10px;
+}
+div {
+    position: relative;
+    left: 10px;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-family: fantasy;
+    letter-spacing: 2px;
+    color: red;
+}
+.dybala {
+    position: absolute;
+    top: -310px;
+    left: 349px;
+    height: 300px;
+    width: 225px;
+    border-radius: 20px;
+    box-shadow: 0 0 50px aqua;
+}
+.info{
+    position: absolute;
+    top: -382px;
+    left: 374px;
+    color: cornflowerblue;
+}
+.infoAge {
+    position: absolute;
+    top: -352px;
+    left: 374px;
+    color: cornflowerblue;
+}
+  .modric {
+    position:absolute;
+    top: 79px;
+    left: 724px;
+    height: 300px;
+    width: 225px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px blue;
+}
+  #modricImg {
+      position: absolute;
+      top: -65px;
+      left: -9px;
+      height: 300px;
+      width: 225px;
+      border-radius: 20px;
+      box-shadow: 0 0 10px blue;
+      z-index: 2;
+  }
+  .modricName{
+      position:relative;
+      top: -65px;
+      color: blue;
+  }
+  .modricAge {
+      position:relative;
+      top: -65px;
+      color: blue;
+  }
+
+.rodrygo {
+    position:absolute;
+    top: 79px;
+    left: 724px;
+    height: 300px;
+    width: 225px;
+    border-radius: 20px;
+    box-shadow: 0 0 50px aqua;
+}
+  #rodImg {
+      position: absolute;
+      top: -65px;
+      left: 331px;
+      height: 300px;
+      width: 225px;
+      border-radius: 20px;
+      box-shadow: 0 0 10px black;
+      z-index: 2;
+  }
+  .rodName{
+      position:relative;
+      top: -65px;
+      color: black;
+      left: 352px;
+  }
+  .rodAge {
+      position:relative;
+      top: -65px;
+      color: black;
+      left: 352px;
+  }
+.anynamer {
+    position:absolute;
+    top: 600px;
+}
